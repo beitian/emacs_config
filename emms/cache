@@ -1,0 +1,3 @@
+;;; .emms-cache -*- mode: emacs-lisp; coding: utf-8; -*-
+(puthash "/home/maming/music/侬本多情.mp3" '(*track* (type . file) (name . "/home/maming/music/侬本多情.mp3") (info-playing-time . 229) (info-mtime 21074 21191)) emms-cache-db)
+(puthash "/home/maming/documents/photoshop/钢笔工具1.mp4" '(*track* (type . file) (name . "/home/maming/documents/photoshop/钢笔工具1.mp4") (info-mtime 20475 43848)) emms-cache-db)
