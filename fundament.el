@@ -1,5 +1,5 @@
 ;;设置个人信息
-(setq user-full-name "ma")
+(setq user-full-name "maming")
 (setq user-mail-address "hqjma@sina.com")
 
 ;;用y/n代替yes/no
@@ -17,5 +17,11 @@
 ;;设置tab宽度为4
 (setq-default indent-tabs-mode nil)
 (setq tab-width 4 c-basic-offset 4)
+
+;;设置左右分屏可以调整大小
+(global-set-key (kbd "<C-up>") 'shrink-window)
+(global-set-key (kbd "<C-down>") 'enlarge-window)
+(global-set-key (kbd "<C-left>") 'shrink-window-horizontally)
+(global-set-key (kbd "<C-right>") 'enlarge-window-horizontally)
 
 (provide 'fundament)
