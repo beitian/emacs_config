@@ -10,7 +10,7 @@ emacs configure file
 emacs可通过w3m浏览网页。其安装步骤如下  
     a. 如果想通过cvs安装emacs-w3m，需先安装cvs，安装后执行  
    `cvs -d :pserver:anonymous@cvs.namazu.org:/storage/cvsroot co w3m`
-       即可。亦可从官网下载emacs-w3m解压安装
+       即可。亦可从官网下载emacs-w3m解压安装  
     b. 确保安装了autoconf。在终端输入`autoconf`，生成configure文件  
     c. 执行`./configure`  
     d. 执行`make; sudo make install`  
