@@ -1,32 +1,0 @@
-;;; .loaddefs.el --- automatically extracted autoloads
-;;
-;;; Code:
-
-
-;;;### (autoloads (auto-complete) "auto-complete" "auto-complete/auto-complete.el"
-;;;;;;  (21092 58932))
-;;; Generated autoloads from auto-complete/auto-complete.el
-
-(autoload 'auto-complete "auto-complete" "\
-Start auto-completion at current point.
-
-\(fn &optional SOURCES)" t nil)
-
-;;;***
-
-;;;### (autoloads nil nil ("auto-complete/auto-complete-config.el"
-;;;;;;  "auto-complete/auto-complete-pkg.el" "ctable/ctable.el" "ctable/test-ctable.el"
-;;;;;;  "deferred/concurrent-sample.el" "deferred/concurrent.el"
-;;;;;;  "deferred/deferred-samples.el" "deferred/deferred.el" "deferred/test-concurrent.el"
-;;;;;;  "deferred/test-deferred.el" "epc/epc.el" "epc/epcs.el" "epc/test-epc.el"
-;;;;;;  "fuzzy/fuzzy.el" "popup/popup.el") (21092 58939 864151))
-
-;;;***
-
-(provide '.loaddefs)
-;; Local Variables:
-;; version-control: never
-;; no-update-autoloads: t
-;; coding: utf-8
-;; End:
-;;; .loaddefs.el ends here
