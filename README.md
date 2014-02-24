@@ -11,12 +11,12 @@ sudo aptitude install markdown
 
 w3m
 ---
-emacs可通过w3m浏览网页，其安装步骤如下：  
-1. 从[w3c Download](http://emacs-w3m.namazu.org/index-en.html#download)下载`emacs-w3m`。
-2. 确保安装了`autoconf`，在`emacs-w3m`的解压目录下执行`autoconf`，生成configure文件。
-3. 执行`./configure; make; sudo make install`安装w3m
-4. 配置emacs.el。
-5. 打开emacs,在`w3m`模式下即可上网。
+emacs可通过w3m浏览网页，其安装步骤如下：    
+1. 从[w3c Download](http://emacs-w3m.namazu.org/index-en.html#download)下载`emacs-w3m`     
+2. 确保安装了`autoconf`，在`emacs-w3m`的解压目录下执行`autoconf`，生成configure文件     
+3. 执行`./configure; make; sudo make install`安装w3m    
+4. 配置emacs.el     
+5. 打开emacs,在`w3m`模式下即可上网    
 
 待完成
 ---
