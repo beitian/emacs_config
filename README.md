@@ -18,6 +18,22 @@ emacs可通过w3m浏览网页，其安装步骤如下：
 4. 配置emacs.el     
 5. 打开emacs,在`w3m`模式下即可上网    
 
+### 附w3m快捷键
+
+ 指令| 操作
+----|-----
+  U | 输入url
+  R | 刷新
+  B | 后退
+  N | 前进
+  S | google search
+  G | 打开一个新的标签
+  H | 打开主页
+  ] | 下一个链接
+  [ | 上一个链接
+  C-c C-c | 发送当前form
+
+
 待完成
 ---
 - 自动补全，参考[company-mode](https://github.com/company-mode/company-mode)
